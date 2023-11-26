@@ -1,7 +1,7 @@
 My portfolio 
 
 
-Open [http://sagargiri23.com.np] to view my portfolio.
+Open [https://sagargiri23.com.np] to view my portfolio.
 
 It uses React bootstrap package for css.
 
