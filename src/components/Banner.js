@@ -2,6 +2,7 @@ import {useState, useEffect } from "react";
 import { Nav,Container, Row , Col} from "react-bootstrap";
 import headerImg from "../assets/img/header-img.png";
 import { unstable_batchedUpdates } from "react-dom";
+// doing it 
 
 export const Banner =() =>{
     const [loopNum, setLoopNum]= useState(0);
